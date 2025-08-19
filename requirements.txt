@@ -23,3 +23,8 @@ duckdb
 pytesseract
 playwright
 
+
+
+
+
+
